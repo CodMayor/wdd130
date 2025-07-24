@@ -1,0 +1,44 @@
+header {
+background-color: steelblue;
+color: white;
+padding: 1rem;
+}
+
+main {
+    max-width: 800px;
+}
+
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid rgba(0, 0, 0, 2);
+    padding: 1rem;
+    background-color: gray;
+    color: black;
+    text-align: center;
+
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+    border: 3px solid gray;
+    padding: 5px;
+}
+
+main img {
+    width: 200px;
+    height: auto;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+
+}
+
+p {
+    padding: 0;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid black;
+    text-align: center;
+}
